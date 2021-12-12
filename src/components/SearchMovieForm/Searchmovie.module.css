@@ -1,0 +1,18 @@
+.SearchForm {
+  display: flex;
+  justify-content: left;
+}
+.SearchField {
+  height: 30px;
+  width: 400px;
+  border: none;
+  font-style: italic;
+  font-size: 16px;
+  border-bottom: 2px solid #8384bb;
+  outline: none;
+}
+.SearchButton {
+  height: 34px;
+  width: 70px;
+  font-size: 15px;
+}

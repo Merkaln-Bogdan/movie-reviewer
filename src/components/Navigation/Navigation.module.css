@@ -1,0 +1,17 @@
+.contain {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  height: 100px;
+  list-style: none;
+  align-items: center;
+}
+
+.contain a {
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(96, 54, 214);
+}
+.contain :hover {
+  color: red;
+}

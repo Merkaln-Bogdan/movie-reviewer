@@ -1,0 +1,10 @@
+.ListItem {
+  list-style: none;
+  font-size: 20px;
+}
+.Link {
+  text-decoration: none;
+}
+.Title {
+  color: black;
+}
